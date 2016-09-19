@@ -1,0 +1,10 @@
+{
+  "steps": [
+    {
+      "name": "simple",
+      "executable": true,
+      "sources" : "*.c",
+      "project" : "Generic"
+    }
+  ]
+}
